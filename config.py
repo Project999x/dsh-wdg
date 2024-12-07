@@ -31,8 +31,8 @@ PORT = os.environ.get("PORT", "8080")
 DB_URI = "mongodb+srv://sagatobots00001:sagatobots100@cluster00001.vgdshkw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster00001"
 DB_NAME = os.environ.get("DATABASE_NAME", "WDG_5_BOT")
 
-SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "publicearn.in")
-SHORTLINK_API = os.environ.get("SHORTLINK_API", "fc348050668f72823ffc258b84a0aa07e60bea95")
+SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "inshorturl.com")
+SHORTLINK_API = os.environ.get("SHORTLINK_API", "e35725c8c7e67c10ca3d16399e7837e209c1cbba")
 VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 86400)) # Add time in seconds
 IS_VERIFY = os.environ.get("IS_VERIFY", "True")
 TUT_VID = os.environ.get("TUT_VID","https://t.me/+iJwEN5l629gwYzdl")
