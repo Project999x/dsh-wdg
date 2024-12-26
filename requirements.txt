@@ -1,7 +1,7 @@
 # --- For-Bot-Working --------- #
-https://codeload.github.com/KurimuzonAkuma/pyrogram/zip/refs/heads/dev
+git+https://github.com/youesky/pyrogram
 TgCrypto
-pyromod==1.5
+pyromod
 # --- For-Database ------------ #
 pymongo
 motor
