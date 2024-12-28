@@ -1,4 +1,4 @@
-git+https://github.com/youesky/pyrogram
+git+https://github.com/seniorsolt/pyrogram
 # --- For-Bot-Working --------- #
 pyrogram
 TgCrypto
